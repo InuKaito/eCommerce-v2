@@ -1,0 +1,99 @@
+[
+        {
+            "id": 1,
+            "img": "/ProductImg/00Riser.jpg",
+            "title": "Trans-am Riser Clear Color Body 1/60 (scale) Perfect Grade",
+            "price": 128.16,
+            "description": "Clear exterior parts for enjoying PG Transam Riser as a clear color kit appeared! From Mobile Suit Gundam 00",
+            "grade": "Perfect Grade"
+        },
+        {
+            "id": 2,
+            "img": "../ProductImg/Gundamfreedom.jpg",
+            "title": "Strike Freedom Gundam 1/60 (scale) Perfect Grade",
+            "price": 242.00,
+            "description": "The Strike Freedom Gundam from Gundam Seed Destiny makes its debut into the PG line featuring brand new styling with extreme articulation and unprecedented mechanical detail.",
+            "grade": "Perfect Grade"
+        },
+        {
+            "id": 3,
+            "img": "../ProductImg/AstrayRedFrame.jpg",
+            "title": "Gundam Seed Astray Red Frame 1/60 (scale) Perfect Grade",
+            "price": 172.45,
+            "description": "Secretly in development for 4 years, the PG Gundam Astray Red Frame makes its big debut.",
+            "grade": "Perfect Grade"
+        },
+        {
+            "id": 4,
+            "img": "../ProductImg/00gundamsevensword.jpg",
+            "title": "Gundam Seven Sword/G Gundam 00 1/60 (scale) Perfect Grade",
+            "price": 186.88,
+            "description": "Under the supervision of its original designer, Kanetake Ebikawa, the 00 Gundam is re-introduced to the Perfect Grade.",
+            "grade": "Perfect Grade"
+        },
+        {
+            "id": 5,
+            "img": "../ProductImg/barbatos.jpg",
+            "title": "Barbatos Gundam 1/100 (scale) Master Grade",
+            "price": 49.92,
+            "description": "The 4th form of Gundam Barbatos from (Gundam Iron-Blooded Orphans) appears in the prestigous Master Grade line!",
+            "grade": "Master Grade"
+        },
+        {
+            "id": 6,
+            "img": "../ProductImg/gundamdynames.jpg",
+            "title": "Gundam Dynames 1/100 (scale) Master Grade",
+            "price": 42.72,
+            "description": "The long awaited Gundam dynamic from Gundam 00 is finally available as a master grade.",
+            "grade": "Master Grade"
+        },
+        {
+            "id": 7,
+            "img": "../ProductImg/dualgundam.jpg",
+            "title": "Dual Gundam 1/100 (scale) Master Grade",
+            "price": 56.90,
+            "description": "The new X-100 frames allow the kit an incredible range of motion, even when it wears the Assault shroud.",
+            "grade": "Master Grade"
+        },
+        {
+            "id": 8,
+            "img": "../ProductImg/gundammk2.jpg",
+            "title": "Gundam MK2 1/100 (scale) Master Grade",
+            "price": 42.56,
+            "description": "The Gundam Mk 2 Titans Ver 2.0 from (Zeta Gundam) features styling and engineering found on the previously released larger PG Gundam MK 2.",
+            "grade": "Master Grade"
+        },
+        {
+            "id": 9,
+            "img": "../ProductImg/gundamvidar.jpg",
+            "title": "Gundam Vidar 1/144 (scale) High Grade",
+            "price": 21.47,
+            "description": "A stylish new mobile suit equipped with a saber is launching from the 2nd season of the popular Iron Blooded Orphans series!",
+            "grade": "High Grade"
+        },
+        {
+            "id": 10,
+            "img": "../ProductImg/char.jpg",
+            "title": "Zaku 2 Char Red Comet 1/144 (scale) High Grade",
+            "price": 23.72,
+            "description": "The red Zaku used by Char Aznable as seen in (Gundam the origin) And the original Gundam TV series returns in a new package along with new armaments!",
+            "grade": "High Grade"
+        },
+        {
+            "id": 11,
+            "img": "../ProductImg/rx-79.jpg",
+            "title": "RX-79 Ground Type Gundam 1/144 (scale) High Grade",
+            "price": 20.00,
+            "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eaque, ex?This kit’s armor parts features new designs, recreating the Gundam Ground Type’s iconic asymmetrical chest Unit.",
+            "grade": "High Grade"
+        },
+        {
+            "id": 12,
+            "img": "../ProductImg/shining.jpg",
+            "title": "Shining Gundam 1/144 (scale) High Grade",
+            "price": 22.79,
+            "description": "Shining Gundam, the first Gundam for Neo Japan in the Gundam spinoff, Mobile Fighter G Gundam.",
+            "grade": "High Grade"
+        }
+        
+]
